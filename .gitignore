@@ -1,0 +1,29 @@
+out/
+lib/
+.run/
+target/
+punishmentEvidence/
+parseImages/
+Nest event/
+modmail/
+Goldilocks Backup Db/
+emotes/
+emoteCache/
+drivetokens/
+data/
+csvfiles/
+bin/
+.idea/
+src/main/resources/
+tokens/
+vaultPictures/
+*.db
+*.p12
+*.png
+*.jks
+*.csr
+*.txt
+*.jpg
+*.mp4
+*.gif
+*.json
